@@ -1,5 +1,9 @@
 # V0.4156
 
+> [!WARNING]
+> This repository is still under development and will probably not be modified for some time :cry:, so take it as it is. The published CAD file (incomplete) is the functional version on my own printer.    
+
+
 ## Mods and useful config for Trizero.
 
 ![V0.4156](./images/20250803_175613.jpg)
