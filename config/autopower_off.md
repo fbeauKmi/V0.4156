@@ -18,7 +18,7 @@ This method is not perfect or optimal, but it works in my home setup. All printe
 
 ## IoT Device Configuration
 
-![Power inlet](image.png)
+![Power inlet](../images/power_inlet.png)
 
 I use the [Shelly Mini 1PM](https://www.shelly.com/fr/products/shelly-1pm-mini-gen3), which is compact and easy to integrate into CAD designs. It supports up to 8A / 2000W.
 
