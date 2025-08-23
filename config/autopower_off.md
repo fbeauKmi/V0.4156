@@ -85,6 +85,8 @@ In **Settings > Devices & Services**, add the Ping (ICMP) integration and enter 
 
 To prevent accidental shutdowns, use [restriction-card](https://github.com/iantrich/restriction-card) in Lovelace. The printer cannot be turned off while the Pi is reachable.
 
+![Lovelace card](../images/lovelace_card.png)
+
 ```yaml
 - type: entities
   entities:
