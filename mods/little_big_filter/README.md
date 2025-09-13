@@ -38,6 +38,10 @@ The cable can be routed from left or right side depending the place you choose f
 
 ![alt text](./images/install_cartridge.png)
 
+## Configuration
+
+I use a custom macro to start/stop fans and track carbon use. [fan_savior.cfg](./klipper/fan_savior.cfg). It requires [vars.py](https://github.com/fbeauKmi/kbobine_filament_settings/blob/main/klipper/docs/vars.md#configuration-reference) to works properly.
+
 ## Aknowledgments
 
 All Voron community . More to come

@@ -32,8 +32,9 @@ I took me almost 2 year to tinker around this printer.
 - [printed tophat for 3mm panels](./mods/printed_tophat) Tribute to old style V0
 - [backplate + leviathan mount](./mods/trizero_backplate/README.md)
 - [power inlet + Shelly mini](./mods/power_inlet/README.md)
-- [Tiny peekAboo]()
-- [PUG plate cable mount]()
+- [Tiny peekAboo](./mods/tiny_peekaboo/README.md)
+- [PUG plate cable mount](./mods/PUG_plate/README.md)
+- [URBI for Optotap Filament Sensors](./mods/URBI_OFS/README.md)
 - ...
 
 # Config
@@ -45,3 +46,8 @@ It runs "in development" version of [Klippain-Chocolate](https://github.com/elpo
 - buildplate presets
 - fan_savior
 - wled commands through Moonraker
+
+
+# Aknowledgement
+
+This printer would be nothing without Voron team, contributors and crew members, owners, they gave me so many inspiration. Thank you so much !
