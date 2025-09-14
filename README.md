@@ -44,7 +44,7 @@ It runs "in development" version of [Klippain-Chocolate](https://github.com/elpo
 - Kbobine
 - Adaptive heatsoak
 - buildplate presets
-- fan_savior
+- [fan_savior](./mods/little_big_filter/klipper/fan_savior.cfg)
 - wled commands through Moonraker
 
 
