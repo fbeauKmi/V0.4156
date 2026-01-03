@@ -22,15 +22,15 @@ This method is not perfect or optimal, but it works in my home setup. All printe
 
 I use the [Shelly Mini 1PM](https://www.shelly.com/fr/products/shelly-1pm-mini-gen3), which is compact and easy to integrate into CAD designs. It supports up to 8A / 2000W.
 
-For firmware, I recommend [Tasmota](https://staars.github.io/docs/) for its LAN-only mode (no cloud) and flexible configuration options.
+For firmware, I recommend [Tasmota](https://tasmota.github.io/docs/) for its LAN-only mode (no cloud) and flexible configuration options.
 
-### Tasmota Console Setup
+### Tasmota Console Setup (version 15.2.0)
 
-Configure the following in the Tasmota console for printer use:
+Configure the following in the [Tasmota](https://tasmota.github.io/docs/) console for printer use:
 
 - **Power On After Energy Recovery:**
   ```
-  Rule1 ON Power1#boot DO POWER1 1 ENDON
+  PowerOnState 1
   ```
 
 - **Switch Only Turns On** (if using a physical switch):
