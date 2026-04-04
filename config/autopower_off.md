@@ -43,7 +43,7 @@ Configure the following in the [Tasmota](https://tasmota.github.io/docs/) consol
 
 ### Requirements
 
-- Printer must have a fixed IP address and be reachable via ping.
+- Printer hostname or IP address must be reachable via ping.
 
 ### Create an Automation
 
